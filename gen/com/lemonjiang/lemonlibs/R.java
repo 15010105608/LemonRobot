@@ -80,9 +80,9 @@ public final class R {
 		public static final int tv_msg = 0x7f0a0002;
 	}
 	public static final class layout {
-		public static final int applib_view_round_progress = 0x7f030001;
-		public static final int applib_view_round_toast = 0x7f030002;
-		public static final int applib_view_round_toastdialog = 0x7f030003;
+		public static final int applib_view_round_progress = 0x7f030002;
+		public static final int applib_view_round_toast = 0x7f030003;
+		public static final int applib_view_round_toastdialog = 0x7f030004;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f070000;

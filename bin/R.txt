@@ -65,10 +65,11 @@ int id iv_icon 0x7f0a0000
 int id ll_container 0x7f0a0003
 int id tv_jiazai 0x7f0a0001
 int id tv_msg 0x7f0a0002
-int layout activity_main 0x7f030000
-int layout applib_view_round_progress 0x7f030001
-int layout applib_view_round_toast 0x7f030002
-int layout applib_view_round_toastdialog 0x7f030003
+int layout act_welcome 0x7f030000
+int layout activity_main 0x7f030001
+int layout applib_view_round_progress 0x7f030002
+int layout applib_view_round_toast 0x7f030003
+int layout applib_view_round_toastdialog 0x7f030004
 int menu main 0x7f090000
 int string action_settings 0x7f070002
 int string app_name 0x7f070000
